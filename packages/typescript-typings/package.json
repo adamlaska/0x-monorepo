@@ -28,7 +28,7 @@
         "@types/react": "*",
         "bignumber.js": "~9.0.0",
         "ethereum-types": "^3.2.0",
-        "popper.js": "1.14.3"
+        "popper.js": "1.16.1"
     },
     "devDependencies": {
         "shx": "^0.2.2",
