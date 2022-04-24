@@ -43,7 +43,7 @@
         "@types/mocha": "^5.2.7",
         "@types/node": "12.12.54",
         "chai": "^4.0.1",
-        "chokidar-cli": "^1.2.0",
+        "chokidar-cli": "^2.1.0",
         "copyfiles": "^2.0.0",
         "dirty-chai": "^2.0.1",
         "discharge": "^0.7.1",
