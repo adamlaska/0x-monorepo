@@ -67,11 +67,11 @@
         "lodash": "^4.17.11",
         "mocha": "^6.2.0",
         "npm-run-all": "^4.1.2",
-        "shx": "^0.2.2",
+        "shx": "^0.3.0",
         "solhint": "^1.4.1",
         "truffle": "^5.0.32",
         "tslint": "5.11.0",
-        "typedoc": "^0.15.0",
+        "typedoc": "^0.21.10",
         "typescript": "3.0.1"
     },
     "dependencies": {
