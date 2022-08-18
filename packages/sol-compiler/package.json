@@ -46,7 +46,7 @@
     },
     "homepage": "https://github.com/0xProject/0x-monorepo/packages/sol-compiler/README.md",
     "devDependencies": {
-        "@0x/dev-utils": "^3.3.0",
+        "@0x/dev-utils": "^5.0.0",
         "@0x/ts-doc-gen": "^0.0.22",
         "@0x/tslint-config": "^4.1.0",
         "@types/mkdirp": "^0.5.2",
@@ -79,7 +79,7 @@
         "@0x/sol-resolver": "^3.1.0",
         "@0x/types": "^3.2.0",
         "@0x/typescript-typings": "^5.1.1",
-        "@0x/utils": "^5.5.1",
+        "@0x/utils": "^7.0.0",
         "@0x/web3-wrapper": "^7.2.0",
         "@types/yargs": "^11.0.0",
         "chalk": "^2.3.0",
