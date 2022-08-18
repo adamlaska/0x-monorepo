@@ -47,8 +47,8 @@
     "dependencies": {
         "@0x/assert": "^3.0.9",
         "@0x/json-schemas": "^5.1.0",
-        "@0x/utils": "^5.5.1",
-        "@0x/web3-wrapper": "^7.2.0",
+        "@0x/utils": "^7.0.0",
+        "@0x/web3-wrapper": "^8.0.0",
         "ethereumjs-account": "^3.0.0",
         "ethereumjs-blockstream": "^7.0.0",
         "ethereumjs-util": "^5.1.1",
