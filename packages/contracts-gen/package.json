@@ -31,7 +31,7 @@
         "@0x/sol-resolver": "^3.1.0",
         "@0x/types": "^3.2.0",
         "@0x/typescript-typings": "^5.1.1",
-        "@0x/utils": "^5.5.1",
+        "@0x/utils": "^7.0.0",
         "ethereum-types": "^3.2.0",
         "lodash": "^4.17.11",
         "mkdirp": "^0.5.1",
