@@ -90,7 +90,7 @@
         "@0x/base-contract": "^6.2.3",
         "@0x/contracts-test-utils": "^5.3.4",
         "@0x/typescript-typings": "^5.1.1",
-        "@0x/utils": "^5.5.1",
+        "@0x/utils": "^7.0.0",
         "ethereum-types": "^3.2.0",
         "ethereumjs-util": "^5.1.1"
     },
