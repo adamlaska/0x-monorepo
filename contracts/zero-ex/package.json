@@ -65,7 +65,7 @@
         "@types/lodash": "4.14.104",
         "@types/mocha": "^5.2.7",
         "lodash": "^4.17.11",
-        "mocha": "^6.2.0",
+        "mocha": "^10.1.0",
         "npm-run-all": "^4.1.2",
         "shx": "^0.2.2",
         "solhint": "^1.4.1",
