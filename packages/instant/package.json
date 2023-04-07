@@ -47,7 +47,7 @@
         "@0x/asset-swapper": "^4.6.0",
         "@0x/contract-wrappers": "^13.8.0",
         "@0x/json-schemas": "^5.1.0",
-        "@0x/subproviders": "^6.1.1",
+        "@0x/subproviders": "^8.0.1",
         "@0x/utils": "^5.5.1",
         "@0x/web3-wrapper": "^7.2.0",
         "babel-runtime": "^6.26.0",
