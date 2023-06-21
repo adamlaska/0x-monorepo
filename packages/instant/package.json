@@ -44,10 +44,10 @@
     "homepage": "https://github.com/0xProject/0x-monorepo/packages/instant/README.md",
     "dependencies": {
         "@0x/assert": "^3.0.9",
-        "@0x/asset-swapper": "^4.6.0",
+        "@0x/asset-swapper": "^16.66.4",
         "@0x/contract-wrappers": "^13.8.0",
         "@0x/json-schemas": "^5.1.0",
-        "@0x/subproviders": "^6.1.1",
+        "@0x/subproviders": "^8.0.1",
         "@0x/utils": "^5.5.1",
         "@0x/web3-wrapper": "^7.2.0",
         "babel-runtime": "^6.26.0",
@@ -93,20 +93,20 @@
         "enzyme-adapter-react-16": "^1.5.0",
         "ethereum-types": "^3.2.0",
         "ip": "^1.1.5",
-        "jest": "^23.6.0",
+        "jest": "^25.0.0",
         "make-promises-safe": "^1.1.0",
         "npm-run-all": "^4.1.2",
-        "nyc": "^11.0.1",
+        "nyc": "^15.0.0",
         "rollbar-sourcemap-webpack-plugin": "^2.4.0",
         "shx": "^0.2.2",
         "source-map-loader": "^0.2.4",
         "svg-react-loader": "^0.4.6",
-        "ts-jest": "^23.10.3",
+        "ts-jest": "^26.0.0",
         "tslint": "5.11.0",
         "typescript": "3.0.1",
         "webpack": "^4.20.2",
-        "webpack-cli": "3.1.2",
-        "webpack-dev-server": "^3.1.9"
+        "webpack-cli": "4.0.0",
+        "webpack-dev-server": "^4.0.0"
     },
     "publishConfig": {
         "access": "private"
