@@ -41,7 +41,7 @@
         "yargs": "^10.0.3"
     },
     "devDependencies": {
-        "@0x/dev-utils": "^3.3.0",
+        "@0x/dev-utils": "^5.0.3",
         "@0x/tslint-config": "^4.1.0",
         "@types/mocha": "^5.2.7",
         "chai": "^4.0.1",
