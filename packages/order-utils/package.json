@@ -43,8 +43,8 @@
     },
     "homepage": "https://github.com/0xProject/0x-monorepo/packages/order-utils/README.md",
     "devDependencies": {
-        "@0x/dev-utils": "^3.3.0",
-        "@0x/subproviders": "^6.1.1",
+        "@0x/dev-utils": "^5.0.0",
+        "@0x/subproviders": "^7.0.0",
         "@0x/ts-doc-gen": "^0.0.22",
         "@0x/tslint-config": "^4.1.0",
         "@0x/types": "^3.2.0",
@@ -62,10 +62,10 @@
         "npm-run-all": "^4.1.2",
         "shx": "^0.2.2",
         "sinon": "^4.0.0",
-        "tslint": "5.11.0",
+        "tslint": "5.16.0",
         "typedoc": "^0.15.0",
         "typescript": "3.0.1",
-        "web3-provider-engine": "14.0.6"
+        "web3-provider-engine": "16.0.6"
     },
     "dependencies": {
         "@0x/assert": "^3.0.9",
