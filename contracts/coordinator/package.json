@@ -85,7 +85,7 @@
     },
     "dependencies": {
         "@0x/assert": "^3.0.9",
-        "@0x/base-contract": "^6.2.3",
+        "@0x/base-contract": "^7.0.0",
         "@0x/contract-addresses": "^4.11.0",
         "@0x/contracts-utils": "^4.5.1",
         "@0x/json-schemas": "^5.1.0",
