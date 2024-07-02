@@ -91,7 +91,7 @@
         "typescript": "3.0.1"
     },
     "dependencies": {
-        "@0x/base-contract": "^6.2.3",
+        "@0x/base-contract": "^7.0.0",
         "@0x/typescript-typings": "^5.1.1",
         "ethereum-types": "^3.2.0"
     },
