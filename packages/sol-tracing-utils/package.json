@@ -48,7 +48,7 @@
         "@types/solidity-parser-antlr": "^0.2.3",
         "chalk": "^2.3.0",
         "ethereum-types": "^3.2.0",
-        "ethereumjs-util": "^5.1.1",
+        "ethereumjs-util": "^5.2.1",
         "ethers": "~4.0.4",
         "glob": "^7.1.2",
         "istanbul": "^0.4.5",
@@ -57,7 +57,7 @@
         "mkdirp": "^0.5.1",
         "rimraf": "^2.6.2",
         "semaphore-async-await": "^1.5.1",
-        "solc": "^0.5.5",
+        "solc": "^0.5.13",
         "solidity-parser-antlr": "^0.4.2"
     },
     "devDependencies": {
