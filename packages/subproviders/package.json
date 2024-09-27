@@ -53,7 +53,7 @@
         "json-rpc-error": "2.0.0",
         "lodash": "^4.17.11",
         "semaphore-async-await": "^1.5.1",
-        "web3-provider-engine": "14.0.6"
+        "web3-provider-engine": "16.0.6"
     },
     "devDependencies": {
         "@0x/ts-doc-gen": "^0.0.22",
@@ -72,13 +72,13 @@
         "make-promises-safe": "^1.1.0",
         "mocha": "^6.2.0",
         "npm-run-all": "^4.1.2",
-        "nyc": "^11.0.1",
+        "nyc": "^13.0.1",
         "shx": "^0.2.2",
         "sinon": "^4.0.0",
-        "tslint": "5.11.0",
+        "tslint": "5.16.0",
         "typedoc": "^0.15.0",
         "typescript": "3.0.1",
-        "webpack": "^4.20.2"
+        "webpack": "^5.0.0"
     },
     "optionalDependencies": {
         "@ledgerhq/hw-transport-node-hid": "^4.3.0"
