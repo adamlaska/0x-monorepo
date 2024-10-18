@@ -72,10 +72,10 @@
         "@0x/contract-addresses": "^4.11.0",
         "@0x/contract-wrappers": "^13.8.0",
         "@0x/json-schemas": "^5.1.0",
-        "@0x/utils": "^5.5.1",
+        "@0x/utils": "^6.4.0",
         "@0x/web3-wrapper": "^7.2.0",
-        "ethereumjs-util": "^5.1.1",
-        "ethers": "~4.0.4",
+        "ethereumjs-util": "^6.0.0",
+        "ethers": "~5.0.0",
         "lodash": "^4.17.11"
     },
     "publishConfig": {
