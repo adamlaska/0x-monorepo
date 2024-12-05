@@ -45,7 +45,7 @@
         "@types/nock": "^10.0.3",
         "chai": "^4.0.1",
         "dirty-chai": "^2.0.1",
-        "mocha": "^6.2.0",
+        "mocha": "^11.0.1",
         "shx": "^0.2.2",
         "tslint": "5.11.0",
         "typescript": "3.0.1"
