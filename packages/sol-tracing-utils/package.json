@@ -55,7 +55,7 @@
         "lodash": "^4.17.11",
         "loglevel": "^1.6.1",
         "mkdirp": "^0.5.1",
-        "rimraf": "^2.6.2",
+        "rimraf": "^4.3.1",
         "semaphore-async-await": "^1.5.1",
         "solc": "^0.5.5",
         "solidity-parser-antlr": "^0.4.2"
